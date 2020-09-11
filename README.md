@@ -1,2 +1,11 @@
-# IASC-1P04
-git hub repository for IASC 1P04
+# IASC-1P04 | Samuel Onabol
+
+Welome to the webiste for my Twine game, created for the course IASC 1P04 at Brock University
+
+## Playtest
+
+playtest my game [here]
+
+## Game Proposal Document
+
+Read the documentation for my game [here]
