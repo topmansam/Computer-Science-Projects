@@ -8,6 +8,6 @@ playtest my game [here](playtest/playtest)
 
 ## Prototype
 
-Play the prototype [here](../prototype/TwineGame.html)
+Play the prototype [here](https://twinery.org/2/#!/stories/d514b069-5907-4c3f-82ee-bf056d165f97/play)
 
 
