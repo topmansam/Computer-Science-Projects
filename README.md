@@ -4,10 +4,10 @@ Welome to the webiste for my Twine game, created for the course IASC 1P04 at Bro
 
 ## Playtest
 
-playtest my game [here]
+test my game [here]
 
 ## Prototype
 
 Play the prototype [here](prototype/Twine game (1).html)
 
-f
+
