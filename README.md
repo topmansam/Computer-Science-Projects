@@ -8,6 +8,6 @@ playtest my game [here](playtest/playtest)
 
 ## Prototype
 
-Play the prototype [here](prototype/TwineGame.html)
+Play the prototype [here](../prototype/TwineGame.html)
 
 
