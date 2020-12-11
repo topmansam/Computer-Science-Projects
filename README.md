@@ -6,7 +6,8 @@ Save the world is a game where the player must solve rididles in order to save t
 
 
 ## PLAY NOW
- play Rescue the world [here](final_build/fina_build.html
+ play Rescue the world [here](final_build/fina_build.html)
+ 
 
 ### Playtest
 
