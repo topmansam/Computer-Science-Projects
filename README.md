@@ -20,10 +20,10 @@ Explore my Conway's Game Of Life [here](https://drive.google.com/file/d/1ZUt4Aeu
 ## Car Rental Agency System
 Explore my Car Rental Agency System [here](https://drive.google.com/file/d/1Af5Gb-BoBA5qpyndQIVaq9Vr-BSuBJhY/view?usp=sharing)
 
-## PLAY NOW
- play Rescue the world [here](final_build/final_build.html)
+## Save The World
+Explore my Twine Game here. [here](final_build/final_build.html)
  
-## About the game
+### About the game
 Save the world is a game where the player must solve rididles in order to save the world from the evil mage who wishes to destory the world.
  
  
