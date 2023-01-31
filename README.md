@@ -3,6 +3,12 @@
 
 Weclome to my online portfolio
 
+## Mobile game. "Zombie Runner!"
+
+Explore my mobile endless runner on the app store! 
+
+https://goldmetalgames.com
+
 ## 2D platformer game. "ON THE RUN!"
 
 Explore my 2D platformer [here](https://drive.google.com/file/d/1ewPGjImuHPgDzVxK0S-dXYAne72HvqE_/view)
